@@ -1,4 +1,4 @@
-# Roost
+# ThingSpace NIDD Client
 A web client designed for an Non-IP NBIoT middleware server
 
 ## Development
